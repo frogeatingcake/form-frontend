@@ -44,8 +44,7 @@
 </template>
 
 <script>
-import logo from '@/assets/Logo64x64.webp';
-import path from 'path';
+
 export default {
 
 }
