@@ -1,7 +1,7 @@
 <template>
     <nav>
       <div class="logo">
-        <img src="../assets/Logo64x64.WEBP" alt="logo" />
+      <img src="@/assets/Logo64x64.WEBP" alt="logo" />
       </div>
       <ul>
         <li>
